@@ -1,9 +1,0 @@
-{
-  "name": "Rota do Dinheiro",
-  "short_name": "Rota Dinheiro",
-  "start_url": "./index.html",
-  "display": "standalone",
-  "background_color": "#f7faf8",
-  "theme_color": "#0f766e",
-  "description": "Organização financeira para motoristas de aplicativo."
-}
